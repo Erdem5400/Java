@@ -1,0 +1,4 @@
+
+ID: 2 Temparature: anne Date: anne2 TimeBetweenFrames: anneanne
+ID: 3 Temparature: 33 Date: 333 TimeBetweenFrames: 3333
+ID: 4323 Temparature: 3434 Date: 3463476234723 TimeBetweenFrames: 2432335432326243237623
